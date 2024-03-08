@@ -1,3 +1,3 @@
-# Carbon_Assesment_and_Measurement_in_Agriculture
-A Bigdata and Machine Learning Solution for Smart Carbon Assesment in Agricultural lands
+# Carbon_Assessment_and_Measurement_in_Agriculture
+A Bigdata and Machine Learning Solution for Smart Carbon Assessment in Agricultural lands
  
